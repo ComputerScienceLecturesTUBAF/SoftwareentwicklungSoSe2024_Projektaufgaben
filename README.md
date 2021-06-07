@@ -1,5 +1,17 @@
 # SoftwareentwicklungSoSe2021_Projektaufgaben
 
+## Vorgehen
+
+|             Datum | Bemerkung                                                                           |
+| -----------------:| ----------------------------------------------------------------------------------- |
+|     14. Juni 2021 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung           |
+|                   | Vorbereitung und Auslosung der Aufgabenfelder                                       |
+|      1. Juli 2021 | Bekanntgabe der Aufgabenfelder für die Gruppen                                      |
+|  bis 7. Juli 2021 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
+| bis 10. Juli 2021 | Bestätigung der Idee und des Entwurfes                                              |
+|                   | Bearbeitung der Aufgabenstellung in einem GitHub Projekt mit eingeladenen Betreuern |
+|     14. Juli 2021 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
+
 ## Themenfelder
 
 + Textanalyse über Wikipedia (vgl. Beispiel 1)
@@ -11,10 +23,12 @@
 
 ## Kriterienkatalog
 
-| Aspekt             | Maßstäbe                                                | Bewertungsgewicht |
-| ------------------ | ------------------------------------------------------- | ----------------- |
-| Funktionalität     | Komplexität, Originalität, Grundidee                    | 20 %              |
-| Softwareentwurf    | Klassendesign, Dokumentation des methodischen Vorgehens | 20 %              |
-| Umsetzung          | Lauffähigkeit, Qualität der Implementierung,            | 30 %              |
-| Versionsmanagement | Entwicklungsfluss auf Github, Teamwork                  | 20 %              |
-| Dokumentation      | Tutorial, Beispielcode, Erläuterungen der API           | 10 %              |
+In der Bewertung fließen neben der eigentlichen Implementierung insbesondere der Entwurf und der Entwicklungsprozess ein!
+
+| Aspekt             | Maßstäbe                                                                   | Bewertungsgewicht |
+| ------------------ | -------------------------------------------------------------------------- | ----------------- |
+| Funktionalität     | Komplexität, Originalität, Grundidee                                       | 20 %              |
+| Softwareentwurf    | Klassendesign, Dokumentation des methodischen Vorgehens, integrierte Tests | 20 %              |
+| Umsetzung          | Lauffähigkeit, Qualität der Implementierung,                               | 30 %              |
+| Versionsmanagement | Entwicklungsfluss auf Github, Teamwork                                     | 20 %              |
+| Dokumentation      | Tutorial, Beispielcode, Erläuterungen der API                              | 10 %              |
