@@ -4,13 +4,13 @@
 
 |             Datum | Bemerkung                                                                           |
 | -----------------:| ----------------------------------------------------------------------------------- |
-|     14. Juni 2021 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung           |
+|     21. Juni 2021 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung           |
 |                   | Vorbereitung und Auslosung der Aufgabenfelder                                       |
 |      1. Juli 2021 | Bekanntgabe der Aufgabenfelder für die Gruppen                                      |
-|  bis 7. Juli 2021 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
-| bis 10. Juli 2021 | Bestätigung der Idee und des Entwurfes                                              |
+|  bis 8. Juli 2021 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
+| bis 15. Juli 2021 | Bestätigung der Idee und des Entwurfes                                              |
 |                   | Bearbeitung der Aufgabenstellung in einem GitHub Projekt mit eingeladenen Betreuern |
-|     14. Juli 2021 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
+|     27. Juli 2021 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
 
 ## Themenfelder
 
