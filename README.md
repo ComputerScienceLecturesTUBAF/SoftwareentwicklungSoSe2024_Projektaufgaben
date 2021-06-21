@@ -4,9 +4,8 @@
 
 |             Datum | Bemerkung                                                                           |
 | -----------------:| ----------------------------------------------------------------------------------- |
-|     21. Juni 2021 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung           |
-|                   | Vorbereitung und Auslosung der Aufgabenfelder                                       |
-|      1. Juli 2021 | Bekanntgabe der Aufgabenfelder für die Gruppen                                      |
+|     22. Juni 2021 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung (per Email an Prof. Zug) |
+|                   | Anlegen eines Repositories und Erläuterung Ihrer Zielstellungen im Wiki             |                                                         
 |  bis 8. Juli 2021 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
 | bis 15. Juli 2021 | Bestätigung der Idee und des Entwurfes                                              |
 |                   | Bearbeitung der Aufgabenstellung in einem GitHub Projekt mit eingeladenen Betreuern |
