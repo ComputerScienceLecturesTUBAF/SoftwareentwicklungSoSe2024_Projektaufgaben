@@ -4,12 +4,12 @@
 
 |             Datum | Bemerkung                                                                           |
 | -----------------:| ----------------------------------------------------------------------------------- |
-|     22. Juni 2021 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung (per Email an Prof. Zug) |
+|     21. Juni 2022 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung (per Email an Prof. Zug) |
 |                   | Anlegen eines Repositories und Erläuterung Ihrer Zielstellungen im Wiki             |                                                         
-|  bis 8. Juli 2021 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
-| bis 15. Juli 2021 | Bestätigung der Idee und des Entwurfes                                              |
+|  bis 7. Juli 2022 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
+| bis 14. Juli 2022 | Bestätigung der Idee und des Entwurfes                                              |
 |                   | Bearbeitung der Aufgabenstellung in einem GitHub Projekt mit eingeladenen Betreuern |
-|     27. Juli 2021 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
+|     26. Juli 2022 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
 
 ## Themenfelder
 
