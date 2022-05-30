@@ -1,4 +1,4 @@
-# SoftwareentwicklungSoSe2021_Projektaufgaben
+# SoftwareentwicklungSoSe2022_Projektaufgaben
 
 ## Vorgehen
 
