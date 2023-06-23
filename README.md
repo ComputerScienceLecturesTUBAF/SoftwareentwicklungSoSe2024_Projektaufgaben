@@ -1,15 +1,15 @@
-# SoftwareentwicklungSoSe2022_Projektaufgaben
+# SoftwareentwicklungSoSe2023_Projektaufgaben
 
 ## Vorgehen
 
 |             Datum | Bemerkung                                                                           |
 | -----------------:| ----------------------------------------------------------------------------------- |
-|     21. Juni 2022 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung (per Email an Prof. Zug) |
+|     30. Juni 2023 | Rückmeldung der Gruppen zur Teilnahme an der praktischen Prüfungsleistung (per Email an Prof. Zug und Frau Dr. Rudolf) |
 |                   | Anlegen eines Repositories und Erläuterung Ihrer Zielstellungen im Wiki             |                                                         
-|  bis 7. Juli 2022 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
-| bis 14. Juli 2022 | Bestätigung der Idee und des Entwurfes                                              |
+|  bis 7. Juli 2023 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
+|                   | Bestätigung der Idee und des Entwurfes                                              |
 |                   | Bearbeitung der Aufgabenstellung in einem GitHub Projekt mit eingeladenen Betreuern |
-|     26. Juli 2022 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
+|     25. Juli 2023 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
 
 ## Themenfelder
 
