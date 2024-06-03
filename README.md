@@ -9,7 +9,7 @@
 |  bis 7. Juli 2024 | Spezifikation einer Fragestellung und zugehöriger Softwareentwurf                   |
 |                   | Bestätigung der Idee und des Entwurfes                                              |
 |                   | Bearbeitung der Aufgabenstellung in einem GitHub Projekt mit eingeladenen Betreuern |
-|     23. Juli 2024 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
+|     25. Juli 2024 | (Tag der Klausur) Abschluss der Bearbeitung, die Repos werden gespiegelt.           | 
 
 ## Themenfelder
 
